@@ -1,0 +1,9 @@
+---
+name: Compartilhando com o mundo
+locale: pt
+type: learning
+beta: false
+language: bash
+id_format: "%05d"
+order: []
+private: false
