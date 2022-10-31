@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: El repositorio se actualizó correctamente
+  output: O repositório foi atualizado corretamente.
 name: Empurrando as alterações
