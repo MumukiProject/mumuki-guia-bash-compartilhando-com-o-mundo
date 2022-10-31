@@ -1,1 +1,1 @@
-Buu, no anduvo. Pero no despesperes, ¡no hiciste nada mal! Lo que sucede es que olvidamos pedirte que nos des permiso para subir código a tu repositorio. Acompañanos y te explicamos como hacerlo :arrow_right: 
+Buu, não funcionou. Mas não se desespere, você não fez nada de errado! O que acontece é que esquecemos de pedir que você nos dê permissão para enviar o código para o seu repositório. Continue conosco e vamos explicar como você pode fazer isso :arrow_right:
