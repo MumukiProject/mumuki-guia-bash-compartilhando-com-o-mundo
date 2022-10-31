@@ -1,0 +1,20 @@
+---
+tags: []
+layout: input_right
+editor: multiple_choice
+type: problem
+extra_visible: false
+language: text
+manual_evaluation: false
+choices:
+- value: Crear un usuario en Github
+  checked: true
+- value: Crear un proyecto
+  checked: true
+- value: Instalar Github
+  checked: false
+- value: Indicar quién tiene permisos en el repositorio
+  checked: true
+- value: Hacer `git push origin master`
+  checked: true
+name: Con permiso
