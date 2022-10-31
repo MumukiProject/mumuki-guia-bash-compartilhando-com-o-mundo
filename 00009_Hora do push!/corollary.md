@@ -1,1 +1,1 @@
-Buu, não funcionou. Mas não se desespere, você não fez nada de errado! O que acontece é que esquecemos de pedir que você nos dê permissão para enviar o código para o seu repositório. Continue conosco e vamos explicar como você pode fazer isso :arrow_right:
+Buu, não funcionou :anguished:. Mas não se desespere, você não fez nada de errado! O que acontece é que esquecemos de pedir que você nos dê permissão para enviar o código para o seu repositório. Continue conosco e vamos explicar como você pode fazer isso :arrow_right:
