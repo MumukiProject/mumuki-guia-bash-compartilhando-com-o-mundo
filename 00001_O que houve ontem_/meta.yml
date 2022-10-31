@@ -1,13 +1,14 @@
 ---
+locale: pt
 tags: []
 layout: input_bottom
-editor: code
+editor: 0
 type: interactive
 extra_visible: false
-language: bash
+teacher_info: ''
 manual_evaluation: false
 choices: []
-goal:
+goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_equals
   value: git log
-name: "¿Qué pasó anoche?"
+name: O que houve ontem?

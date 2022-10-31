@@ -1,0 +1,1 @@
+Ao contrário do `git status`, que nos mostra o status do commit atual, o `git log` nos mostra a história completa do repositório.

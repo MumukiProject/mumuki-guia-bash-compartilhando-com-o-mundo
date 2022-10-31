@@ -1,4 +1,5 @@
 ---
+locale: pt
 tags: []
 layout: input_bottom
 editor: single_choice
@@ -7,8 +8,10 @@ extra_visible: false
 language: text
 manual_evaluation: false
 choices:
-- value: En mi computadora
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En mi computadora
   checked: false
-- value: En la nube
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  value: En la nube
   checked: true
 name: Nube arriba, nube abajo

@@ -1,12 +1,13 @@
 ---
+locale: pt
 tags: []
 layout: input_bottom
-editor: code
+editor: 0
 type: interactive
 extra_visible: false
 manual_evaluation: false
 choices: []
-goal:
+goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: No tenés permisos para actualizar el repositorio en Github
 name: "¡Hora del push!"
