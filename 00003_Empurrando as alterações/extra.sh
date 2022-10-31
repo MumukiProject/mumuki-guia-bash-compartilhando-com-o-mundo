@@ -15,6 +15,6 @@ function git {
    REMOTE=$2
    BRANCH=$3
    [[ "$ACTION" == "push" ]] && [[ "$REMOTE" == "origin" ]] && [[ "$BRANCH" == "master" ]] &&
-   echo "El repositorio se actualizó correctamente" || /usr/bin/git $@
+   echo "O repositório foi atualizado corretamente." || /usr/bin/git $@
 }
 export -f git
