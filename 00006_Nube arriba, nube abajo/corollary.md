@@ -1,1 +1,1 @@
-¿Y cómo creamos una cuenta en nube? ¡Aprendamos a hacerlo!
+☁️ E como criamos uma conta na nuvem? Vamos aprender a fazer!

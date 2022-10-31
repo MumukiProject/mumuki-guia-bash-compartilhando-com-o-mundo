@@ -6,12 +6,13 @@ editor: single_choice
 type: problem
 extra_visible: false
 language: text
+teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: En mi computadora
+  value: No meu computador
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: En la nube
+  value: Na nuvem
   checked: true
 name: Nube arriba, nube abajo

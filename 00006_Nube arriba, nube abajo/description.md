@@ -1,5 +1,5 @@
-Llegó el momento de contarte la verdad: hasta ahora siempre que hicimos push, tan solo lo estuvimos simulando. En el mundo real, lo más común es que estas máquinas remotas estén en la nube.
+Chegou a hora de dizer a verdade: até agora, sempre que empurramos, estávamos apenas simulando. No mundo real, o mais comum é que estas máquinas remotas estejam na nuvem.
 
-Por eso es que existen muchos sitios en internet que pueden guardar repositorios: _Github_, _Gitlab_, _Bitbucket_, entre otros. 
+Por isso existem muitos sites na internet que podem armazenar repositórios: _Github_, _Gitlab_, _Bitbucket_, entre outros.
 
-> ¿Dónde se encuentran las máquinas remotas en las cuáles guardamos una copia de los repositorios?
+> Onde estão as máquinas remotas onde salvamos uma cópia dos repositórios? :thought_balloon:
