@@ -1,12 +1,12 @@
-mkdir libro-maravilloso
-cd libro-maravilloso
+mkdir livro-maravilhoso
+cd livro-maravilhoso
 git init .
 touch capitulo1.txt
-echo "Había un avestruz." >> capitulo1.txt
+Fato "Havia um avestruz." >> capitulo1.txt
 git add capitulo1.txt
-git commit -m "Primer capítulo"
+git commit -m "Primeiro capítulo"
 touch capitulo2.txt
-echo "Una historia" >> capitulo2.txt
+echo "Uma história" >> capitulo2.txt
 git add capitulo2.txt
 git commit -m "Segundo capítulo"
 git remote add origin http://otra-pc/foo/bar
