@@ -1,5 +1,3 @@
-Los comandos `git commit` y `git push` son los que más vamos a utilizar.
+`git commit` e `git push` são dois comandos que usaremos muito ✌️. Vejamos um exemplo de como eles são usados juntos.
 
-Veamos un ejemplo de como se usan juntos.
-
-> En la ruta `/home/mumuki/libro-maravilloso` dejamos un archivo creado y ya hicimos el `git add`, commitealo y pushealo al remote `origin`.
+> No caminho '/home/mumuki/livro-maravilhoso' deixamos um arquivo criado e já fizemos o `git add`, agora faça o committ e push para o `origin` remote.

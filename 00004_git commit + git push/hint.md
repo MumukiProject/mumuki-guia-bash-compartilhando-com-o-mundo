@@ -1,1 +1,1 @@
-¡Asegurate de estar en el directorio correcto! :wink: 
+Verifique se você está no diretório correto! :wink:
