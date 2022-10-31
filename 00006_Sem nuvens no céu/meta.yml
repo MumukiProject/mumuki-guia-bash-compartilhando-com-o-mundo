@@ -15,4 +15,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Na nuvem
   checked: true
-name: Nube arriba, nube abajo
+name: Sem nuvens no céu
