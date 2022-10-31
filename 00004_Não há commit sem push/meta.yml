@@ -11,4 +11,4 @@ choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
   output: O repositório foi atualizado corretamente.
-name: git commit + git push
+name: Não há commit sem push
