@@ -1,10 +1,10 @@
-mkdir libro-maravilloso
-cd libro-maravilloso
+mkdir livro-maravilhoso
+cd livro-maravilhoso
 git init .
 touch capitulo1.txt
-echo "Había un avestruz." >> capitulo1.txt
+echo "Havia um avestruz." >> capitulo1.txt
 git add capitulo1.txt
-git commit -m "Primer commit"
+git commit -m "Primeiro commit"
 function git {
   STATUS=$(/usr/bin/git status)
   ACTION=$1
