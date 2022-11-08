@@ -10,8 +10,8 @@ function git {
   ACTION=$1
   REMOTE=$2
   BRANCH=$3
-  [[ "$ACTION" == "push" ]] && [[ "$REMOTE" == "origin" ]] && [[ ("$BRANCH" == "master" || "$BRANCH" == "HEAD") ]] && [[ $STATUS = *"nothing to commit"* ]] &&
-  echo "El repositorio se actualizó correctamente" || /usr/bin/git "$@"
+  [[ "$ACTION" == "push" ]] && [[ "$REMOTE" == "origin" ]] && [[ "$BRANCH" == "master" ]] && [[ $STATUS = *"nothing to commit"* ]] &&
+  echo "O repositório foi atualizado corretamente." || /usr/bin/git "$@"
 }
 export -f git
 cd /home/mumuki
