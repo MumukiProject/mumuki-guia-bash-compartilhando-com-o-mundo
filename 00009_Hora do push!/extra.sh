@@ -10,7 +10,7 @@ function git {
   ACTION=$1
   REMOTE=$2
   BRANCH=$3
-  [[ "$ACTION" == "push" ]] && [[ "$REMOTE" == "origin" ]] && [[ "$BRANCH" == "master" ]] && [[ $STATUS = *"nothing to commit"* ]] &&
-  echo "No tenés permisos para actualizar el repositorio en Github" || /usr/bin/git $@
+  [[ "$ACTION" == "push" ]] && [[ "$REMOTE" == "origin" ]] && [[ ("$BRANCH" == "master" || "$BRANCH" == "HEAD")  ]] && [[ $STATUS = *"nothing to commit"* ]] &&
+  echo "Você não tem permissão para atualizar o repositório no Github" || /usr/bin/git $@
 }
 export -f git
