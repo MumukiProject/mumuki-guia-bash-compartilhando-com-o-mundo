@@ -10,5 +10,5 @@ manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: O repositório foi atualizado corretamente.
+  output: O repositório foi atualizado corretamente
 name: Não há commit sem push
