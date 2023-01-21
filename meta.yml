@@ -3,6 +3,7 @@ name: Compartilhando com o mundo
 locale: pt
 type: learning
 beta: false
+teacher_info: ''
 language: bash
 id_format: "%05d"
 order:
