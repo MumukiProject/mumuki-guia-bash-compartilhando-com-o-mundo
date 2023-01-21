@@ -6,4 +6,4 @@ Para fazer isso, primeiro precisamos registrar um computador remoto, que chamare
 git remote add origin umaURL
 ```
 
-> Vejamos se ficou claro: no caminho `/home/mumuki/livro-maravilhoso`  encontra-se o livro. Registre como computador remoto o `http://otra-pc/foo/bar`.
+> Vejamos se ficou claro: no caminho `/home/mumuki/livro-maravilhoso`  encontra-se o livro. Registre como computador remoto o `http://outro-pc/foo/bar`.
