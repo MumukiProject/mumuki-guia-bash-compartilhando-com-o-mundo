@@ -1,3 +1,3 @@
-- name: El nombre del proyecto debe ser mumuki-proyecto-base
+- name: O nome do projeto deve ser mumuki-projeto-base
   postconditions:
     match: !ruby/regexp '/mumuki-proyecto-base/i'
