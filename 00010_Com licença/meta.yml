@@ -10,18 +10,18 @@ teacher_info: ''
 manual_evaluation: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Crear un usuario en Github
+  value: Criar um usuário no Github
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Crear un proyecto
+  value: Criar um projeto
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Instalar Github
+  value: Instalar o Github
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Indicar quién tiene permisos en el repositorio
+  value: Indicar quem tem permissões no repositório
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: Hacer `git push origin master`
+  value: Fazer `git push origin master`
   checked: true
 name: Com licença
