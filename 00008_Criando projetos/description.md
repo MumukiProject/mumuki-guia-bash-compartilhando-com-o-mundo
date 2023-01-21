@@ -1,9 +1,9 @@
-Si ya verificaste la cuenta, ¡vamos a probar creando un proyecto!
+Se você já verificou a conta, vamos tentar criar um projeto!
 
-Ingresá a [https://github.com/new](https://github.com/new) y seguí estos pasos:
+Entre em [https://github.com/new](https://github.com/new) e siga estes passos:
 
-1. Completá el input que dice `Repository name` con el siguiente nombre `mumuki-proyecto-base`.
-2. Luego hacé click en el botón verde que dice `Create Repository`
-3. Una vez completado estos pasos serás redirigido a la página del proyecto.
+1. Complete o espaço que diz `Repository name` com o seguinte nome `mumuki-projeto-base`.
+2. Em seguida, clique no botão verde que diz `Create Repository`
+3. Quando você terminar de completar esses passos, o Github te levará para a página do projeto.
 
-> Copiá y pegá la `url` de la página del proyecto
+> Copie e cole a `url` da página do projeto
