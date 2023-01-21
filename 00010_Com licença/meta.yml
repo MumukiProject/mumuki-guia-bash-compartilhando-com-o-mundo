@@ -24,4 +24,4 @@ choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   value: Hacer `git push origin master`
   checked: true
-name: Con permiso
+name: Com licença
